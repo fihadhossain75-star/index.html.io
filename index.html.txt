@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Special Offer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #f2f2f2;
+      padding-top: 100px;
+    }
+    button {
+      background: #28a745;
+      color: white;
+      padding: 15px 25px;
+      font-size: 18px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #218838;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome!</h1>
+  <p>Click below to continue to the special offer:</p>
+  
+  <a href="https://singleheartshere.com/YwRtpVGF?aid=gaffkabbxk&kid=hakzkpaggzb&clickid=Fr&sub1=R&sub2=R&sub3=T" target="_blank">
+    <button>Continue</button>
+  </a>
+</body>
+</html>
